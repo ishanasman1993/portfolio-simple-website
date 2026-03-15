@@ -1,7 +1,7 @@
-# portfolio-simple-website
+# Portfolio-simple-website
 Full Stack Developer specializing in modern web technologies. I build responsive frontends, powerful backends, and scalable applications. Always learning, always building.    Full Stack Developer | MERN Stack | React | Node.js | MongoDB | JavaScript
 
-# Personal Portfolio Website 🌐
+# My Portfolio Website 🌐
 
 This is a simple personal portfolio website built using **HTML** and **CSS**.  
 The website is designed to introduce myself and provide a way for visitors to contact me.
